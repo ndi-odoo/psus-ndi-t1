@@ -22,7 +22,7 @@
         
     ],
     'demo': [
-        
+        'demo/academy_demo.xml'
     ],
     'license': 'OEEL-1',
     
